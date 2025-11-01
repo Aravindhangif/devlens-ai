@@ -25,7 +25,7 @@ const handleLeave = () => {
 
   return (
     <div id='nav'>
-      <h1>DEV LENS.</h1>
+      <h1>DevLens AI.</h1>
        <div className="navpart2" 
        onMouseEnter={handleHover}
         onMouseLeave={handleLeave}>

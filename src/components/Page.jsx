@@ -16,7 +16,7 @@ const Page = () => {
       <div id='page1'>
 <h1>See Your C<span>
   <svg class="c-bttn__morph" viewBox="0 0 64 64" aria-hidden="false" role="img" xmlns="http://www.w3.org/2000/svg">
-    <title>DevLens — Code Review Icon</title>
+    <title>DevLens AI — Code Review Icon</title>
 
 
     <path d="M20 18c-3 0-4 2-4 5v4c0 2-1 3-3 3h-2v4h2c2 0 3 1 3 3v4c0 3 1 5 4 5" 
