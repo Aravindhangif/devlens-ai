@@ -5,7 +5,6 @@ A cutting-edge AI-powered code review platform that revolutionizes the way devel
 • [🚀 Live Demo](https://dev-lens-mu.vercel.app/)
 • [📖 Documentation](#table-of-contents)
 • [🐛 Report Issue](https://github.com/H0NEYP0T-466/DEV-LENS/issues)
-• [🤝 Contribute](#-contributing)
 
 ## Table of Contents
 
@@ -15,8 +14,6 @@ A cutting-edge AI-powered code review platform that revolutionizes the way devel
 - [🧪 Usage](#-usage)
 - [🗂 Project Structure](#-project-structure)
 - [🗺 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [🙏 Acknowledgements](#-acknowledgements)
 
 ## ✨ Features
