@@ -1,4 +1,4 @@
-# DEV-LENS
+# DevLens AI
 
 ![GitHub License](https://img.shields.io/github/license/H0NEYP0T-466/DEV-LENS?style=for-the-badge&color=brightgreen)
 ![GitHub Stars](https://img.shields.io/github/stars/H0NEYP0T-466/DEV-LENS?style=for-the-badge&color=yellow)
@@ -215,10 +215,6 @@ DEV-LENS/
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the project.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
