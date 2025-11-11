@@ -220,9 +220,3 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 This project was inspired by the need for intelligent, accessible code review tools that help developers improve their skills and code quality through AI-powered assistance.
 
 ---
-
-<div align="center">
-
-**Made with ❤️ by [H0NEYP0T-466](https://github.com/H0NEYP0T-466)**
-
-</div>
