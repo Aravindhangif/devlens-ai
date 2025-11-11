@@ -2,19 +2,6 @@
 
 A cutting-edge AI-powered code review platform that revolutionizes the way developers analyze, optimize, and improve their code. Built with modern web technologies and powered by Google's Gemini AI, DEV-LENS provides intelligent code analysis, error detection, and automated suggestions to enhance code quality and developer productivity.
 
-• [🚀 Live Demo](https://dev-lens-mu.vercel.app/)
-• [📖 Documentation](#table-of-contents)
-• [🐛 Report Issue](https://github.com/H0NEYP0T-466/DEV-LENS/issues)
-
-## Table of Contents
-
-- [✨ Features](#-features)
-- [🧰 Tech Stack](#-tech-stack)
-- [🚀 Installation](#-installation)
-- [🧪 Usage](#-usage)
-- [🗂 Project Structure](#-project-structure)
-- [🗺 Roadmap](#-roadmap)
-- [🙏 Acknowledgements](#-acknowledgements)
 
 ## ✨ Features
 
